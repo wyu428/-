@@ -32,8 +32,10 @@
     "@vueuse/core": "^10.6.1",
     "axios": "^1.6.2",
     "dayjs": "^1.11.10",
+    "element-plus": "^2.9.1",
     "mitt": "^3.0.1",
     "pinia": "^2.1.7",
+    "qs": "^6.13.1",
     "tdesign-vue-next": "^1.7.0",
     "vue": "^3.3.9",
     "vue-router": "^4.2.5"

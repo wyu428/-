@@ -15,6 +15,6 @@
     },
     "types": ["element-plus/global"]
   },
-  "include": ["mock/*.js", "src/**/*.js", "src/**/*.vue", "vite.config.js"],
+  "include": ["mock/*.js", "src/**/*.js", "src/**/*.vue", "vite.config.js", "src/utils/request.js"],
   "exclude": ["dist", "node_modules"]
 }
